@@ -1,0 +1,2 @@
+# PlanisphereTestDocuments
+テストランナーに読み込んでテスト実行させるためのテストケースファイルをALL Pairで作成します。
